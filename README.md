@@ -5,7 +5,7 @@
 - <b> Azure Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/url)
 - <b> File Integrity Monitoring System</b>
-  - [Python-based system monitors assigned files and directories](https://github.com/gitrepourl)
+  - [Python-based system monitors assigned files and directories](https://github.com/Mihika893/File-Integrity-Monitoring)
  - <b> Network Triage with Wireshark</b>
    - [Qakbot triage](https://github.com/url)
 - <b> Malware Triage</b>
@@ -22,6 +22,4 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="RalphBailey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/ralph-bailey
+[![X](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg)](https://x.com/kk8936)
