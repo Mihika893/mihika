@@ -18,8 +18,3 @@
   - [Email Analysis](https://dev.to/mihika/understanding-email-analysis-a-simple-guide-18i7)
   - [Update | Backup | Recover | Kali Linux | Simple Guide ](https://dev.to/mihika/update-backup-recover-kali-linux-simple-guide-565)
 
-
-
-<h2>Connect with me:</h2>
-
-[![X](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg)](https://x.com/kk8936)
