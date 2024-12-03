@@ -2,8 +2,8 @@
 
 <h2>My Projects</h2>
 
-- <b> Azure Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/url)
+- <b> Log Analysis with Splunk</b>
+  - [Analyzing Sysmon logs to detect and investigate malicious activities](https://github.com/Mihika893/Log-Analysis-Sysmon)
 - <b> File Integrity Monitoring System</b>
   - [Python-based system monitors assigned files and directories](https://github.com/Mihika893/File-Integrity-Monitoring)
  - <b> Network Triage with Wireshark</b>
